@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://choiexe1.github.io/terms/sitemap.xml
+
